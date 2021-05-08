@@ -6,9 +6,11 @@
      <img width="460" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
    </p>
    
-   ![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit-sinha&hide=contribs,prs&show_icons=true&theme=radical)
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit-sinha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   <br>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanchit-sinha&hide=contribs,prs&show_icons=true&theme=radical" alt="Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit-sinha&layout=compact" alt="Most Languages Used" /> 
+</p>
 
 <!--
 **sanchit-sinha/sanchit-sinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
