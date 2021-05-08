@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
+   <!---
      <img width="460" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    -->
+     <img width="460" height="300" src="https://github.com/sanchit-sinha/sanchit-sinha/blob/main/animation.gif?raw=true">
    </p>
    
    <br>
