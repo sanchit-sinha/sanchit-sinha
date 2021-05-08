@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+     <img width="460" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+   ![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit-sinha&hide=contribs,prs&show_icons=true&theme=radical)
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit-sinha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <!--
